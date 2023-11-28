@@ -78,8 +78,11 @@ func progressUpdate(goal: Int) {
 }
 
 progressUpdate(goal: 15000)
+<<<<<<< HEAD
  
  
+=======
+>>>>>>> 9612c0f251245fc37d8bc09b44b4b21bae78513e
 
 func minMax(array: [Int]) -> (min: Int, max: Int)? {
     if array.isEmpty { return nil }
